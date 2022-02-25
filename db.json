@@ -7,10 +7,10 @@
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"APPLOVIN_BANNER": "3b3694106f52bd42",
-	"APPLOVIN_INTERSTITIAL": "300eca54118c69ea",
+	"APPLOVIN_BANNER": "78b24ed6033acc1a",
+	"APPLOVIN_INTERSTITIAL": "3f318dffef9f4cf0",
 
-	"whichAds": 1,
+	"whichAds": 2,
 	
 	"popAppLink": "htp",
 	"popAppName": "Gap",
