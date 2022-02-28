@@ -22,7 +22,7 @@
 	"BUTTON_NAME_2": "Go To Shop",
 	"BUTTON_NAME_3":"hello page 3",
 	
-	"show_Button":0,
+	"show_Button":1,
 
 	"URL" : "https://www.binaryhexconverter.com/decimal-to-hex-converter",
 
