@@ -21,9 +21,9 @@
 	"BUTTON_NAME_1": "Start Shop",
 	"BUTTON_NAME_2": "Go To Shop",
 	
-	"show_Button": 0,
+	"show_Button": 1,
 
-	"URL" : "https://www.google.com/",
+	"URL" : "",
 
 	"isAdsActivated1":true,
 	"isAdsActivated2":true
