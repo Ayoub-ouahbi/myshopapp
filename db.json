@@ -21,6 +21,8 @@
 	"BUTTON_NAME_1": "Start Shop",
 	"BUTTON_NAME_2": "Go To Shop",
 	"BUTTON_NAME_3":"hello page 3",
+	
+	"show_Button":false,
 
 	"URL" : "https://www.binaryhexconverter.com/decimal-to-hex-converter",
 
