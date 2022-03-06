@@ -3,14 +3,14 @@
 	"admob_banner":"ca-app-pub-5372286114100637/7694074451",
 	"admob_inter":"ca-app-pub-5372286114100637/8428038790",
 
-	"APP_KEY": "13b6f4a21 ",
+	"APP_KEY": "13a36b029 ",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 	"APPLOVIN_BANNER": "bdf1c79dc8253455",
 	"APPLOVIN_INTERSTITIAL": "2765bc37a6a8a76d",
 
-	"whichAds": 0,
+	"whichAds": 1,
 	
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -25,7 +25,7 @@
 
 	"URL" : "https://www.wilko.com/",
 
-	"isAdsActivated1":false,
+	"isAdsActivated1":true,
 	"isAdsActivated2":false
 
 }
